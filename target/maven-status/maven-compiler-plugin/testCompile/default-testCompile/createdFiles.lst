@@ -1,0 +1,5 @@
+StepDefinations\BookSteps.class
+TestComponets\BaseTest.class
+StepDefinations\SearchISteps.class
+StepDefinations\LoginSteps.class
+TestRunners\TestRunner.class
